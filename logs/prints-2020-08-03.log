@@ -1,0 +1,8 @@
+00:47:09.252 [main] INFO  resources.base - Landing page is there
+00:47:11.274 [main] ERROR resources.base - Error is generated
+01:43:31.455 [main] ERROR resources.base - Error is generated
+09:14:02.825 [main] INFO  resources.base - Landing page is there
+09:14:35.811 [main] ERROR resources.base - Error is generated
+09:22:38.524 [main] INFO  resources.base - Landing page is there
+09:28:25.168 [TestNG-tests-2] INFO  resources.base - Landing page is there
+09:32:23.376 [main] INFO  resources.base - Landing page is there
